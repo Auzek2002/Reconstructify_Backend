@@ -28,8 +28,8 @@
 ### Installation & Running
 
 ```bash
-git clone https://github.com/Auzek2002/Reconstructify.git
-cd Reconstructify
+git clone https://github.com/Auzek2002/Reconstructify_Backend.git
+cd Reconstructify_Backend
 uvicorn main:app --reload --host 0.0.0.0 --port 8000
 ```
 
